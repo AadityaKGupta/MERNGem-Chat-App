@@ -20,8 +20,8 @@ A real-time, AI-powered chat application built using the MERN stack (MongoDB, Ex
 
 ## Usage
 
-- **User Authentication**: Sign in with your Google account.
-- **Real-time Chat**: Start messaging in the chat interface.
+- **User Authentication**: First, create an account, then sign in with your credentials.
+- **Real-time Chat**: Start messaging through the chat interface.
 - **AI Assistance**: Receive intelligent suggestions and responses powered by Google Gemini.
 
 ## License
