@@ -18,11 +18,65 @@ A real-time, AI-powered chat application built using the MERN stack (MongoDB, Ex
 - **Authentication**: Google Gemini (OAuth2)
 - **Performance**: Redis (for caching and optimization)
 
+## Installation
+
+### Prerequisites
+
+- Node.js (v12 or above)
+- MongoDB
+- Redis (for caching, optional but recommended)
+
+### Setup Instructions
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/MERNGem-Chat-App.git
+   cd MERNGem-Chat-App
+   ```
+
+2. Install dependencies for both backend and frontend:
+   - **Backend**:
+     ```bash
+     cd backend
+     npm install
+     ```
+   - **Frontend**:
+     ```bash
+     cd frontend
+     npm install
+     ```
+
+3. Set up environment variables:
+   Create a `.env` file in the backend folder with the following values:
+   ```plaintext
+   GOOGLE_CLIENT_ID=your-google-client-id
+   GOOGLE_CLIENT_SECRET=your-google-client-secret
+   REDIS_URL=your-redis-url (if using Redis)
+   ```
+
+4. Start the application:
+   - **Backend**:
+     ```bash
+     cd backend
+     npm start
+     ```
+   - **Frontend**:
+     ```bash
+     cd frontend
+     npm start
+     ```
+
+5. Open the app in your browser at `http://localhost:3000`.
+
 ## Usage
 
-- **User Authentication**: First, create an account, then sign in with your credentials.
-- **Real-time Chat**: Start messaging through the chat interface.
+- **User Authentication**: Sign in with your Google account.
+- **Real-time Chat**: Start messaging in the chat interface.
 - **AI Assistance**: Receive intelligent suggestions and responses powered by Google Gemini.
+
+## Contributing
+
+Feel free to fork the repository and submit issues or pull requests for improvements. Contributions are welcome!
 
 ## License
 
