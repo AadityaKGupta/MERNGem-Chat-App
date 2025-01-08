@@ -30,7 +30,7 @@ A real-time, AI-powered chat application built using the MERN stack (MongoDB, Ex
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/MERNGem-Chat-App.git
+   git clone https://github.com/AadityaKGupta/MERNGem-Chat-App.git
    cd MERNGem-Chat-App
    ```
 
@@ -70,8 +70,8 @@ A real-time, AI-powered chat application built using the MERN stack (MongoDB, Ex
 
 ## Usage
 
-- **User Authentication**: Sign in with your Google account.
-- **Real-time Chat**: Start messaging in the chat interface.
+- **User Authentication**: First, create an account, then sign in with your credentials.
+- **Real-time Chat**: Start messaging through the chat interface.
 - **AI Assistance**: Receive intelligent suggestions and responses powered by Google Gemini.
 
 ## Contributing
@@ -81,3 +81,10 @@ Feel free to fork the repository and submit issues or pull requests for improvem
 ## License
 
 This project is licensed under the MIT License.
+
+## Contact
+
+For any questions, suggestions, or support, feel free to reach out:
+
+- **Email**: [k.aaditya.g@gmail.com](mailto:k.aaditya.g@gmail.com)
+- **GitHub**: [AadityaKGupta](https://github.com/AadityaKGupta)
